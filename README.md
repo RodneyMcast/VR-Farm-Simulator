@@ -94,5 +94,3 @@ Assets/
 This project uses Unity's XR Interaction Toolkit and assets from the Unity Asset Store. Please refer to the respective licenses for those components.
 
 ---
-
-**Developed with ❤️ for immersive farming experiences in VR**
